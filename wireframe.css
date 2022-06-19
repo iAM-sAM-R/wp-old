@@ -22,7 +22,12 @@ body{
 	text-align: center;
 	}
 
+a{
+	color: blue;
+	}
 	
+
+
 
 .container{
 		position: relative;
