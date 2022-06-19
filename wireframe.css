@@ -1,0 +1,42 @@
+img{
+	width: 200px;
+	height: auto;
+	overflow: hidden;
+	border-radius: 25px
+	}
+
+body{
+	background: yellow url("https://titan.csit.rmit.edu.au/~s3918372/media/moon.gif") fixed center;	
+	}
+
+h1{
+	color: lightblue;
+	}
+
+h2{
+	color: yellow;
+	}
+
+
+body{
+	text-align: center;
+	}
+
+	
+
+.container{
+		position: relative;
+		text-align: center;
+		width: 50px;
+	}
+	
+.container:hover img{
+		opacity: 0.5;
+	}
+
+
+.center{
+		margin-left: auto;
+		margin-right: auto;
+		width: 17%;
+	}
