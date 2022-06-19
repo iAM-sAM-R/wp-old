@@ -25,13 +25,10 @@ body{
 a{
 	color: blue;
 	}
-
-
 	
 footer{
 	color: white
-}
-
+	}
 
 
 .container{
@@ -43,7 +40,6 @@ footer{
 .container:hover img{
 		opacity: 0.5;
 	}
-
 
 .center{
 		margin-left: auto;
